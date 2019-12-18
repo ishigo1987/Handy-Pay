@@ -1,0 +1,16 @@
+{
+  "main": "src/app.js",
+  "private": true,
+  "scripts": {
+    "test": "eslint .",
+    "start": "tabris serve -a -i"
+  },
+  "dependencies": {
+    "awesome-phonenumber": "^2.24.0",
+    "base-64": "^0.1.0",
+    "tabris": "~3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}

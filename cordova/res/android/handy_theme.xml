@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources xmlns:android="http://schemas.android.com/apk/res/android">
+      <style name="Theme.HandyPay" parent="@style/Theme.Tabris.Light.DarkAppBar">
+         <item name="colorPrimary">#009de0</item>
+         <item name="colorPrimaryDark">#0079ad</item>
+         <item name="colorAccent">#009de0</item>
+      </style>
+    </resources>
