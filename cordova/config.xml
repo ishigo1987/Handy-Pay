@@ -11,7 +11,7 @@
   <platform name="android">
     <!-- Changes mades only on TabrisJS 3.0+ -->
     <resource-file src="res/android/values/handy_theme.xml" target="app/src/main/res/values/handy_theme.xml" />
-    <preference name="Theme" value="@style/Theme.handy" />
+    <preference name="Theme" value="@style/Theme.HandyPay" />
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <icon src="res/android/mdpi.png" density="mdpi" />
     <icon src="res/android/hdpi.png" density="hdpi" />
